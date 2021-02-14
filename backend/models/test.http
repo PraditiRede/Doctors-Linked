@@ -1,0 +1,16 @@
+POST  http://localhost:4000/app/registerform
+Content-Type: application/json
+
+{
+    "fname": "sahaana",
+    "lname": "iyer",
+    "username": "dm b ",
+    "email": "sahaanaiyer@gmail.com",
+    "reg": "SI14",
+    "degree": "MBBS",
+    "spc": "Gynaecology",
+    "city": "Mumbai",
+    "states": "Maharashtra",
+    "country": "India",
+    "password": "sahaanas146"
+}
